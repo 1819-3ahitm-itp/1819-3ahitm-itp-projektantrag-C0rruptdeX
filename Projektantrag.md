@@ -5,7 +5,7 @@
 
 #### Ausgangssituation
 In der 3. Klasse lernen wir in ITP wie man ein Projekt plant und erstellt. So mussten wir uns eine Projektidee ausdenken und diese dann im laufe des Schuljahres umsetzen.
-Wir haben uns für ein Spiel entschieden. 
+Wir haben uns für ein Spiel entschieden.
 
 Da ich schon letztes Jahr ein ähnliches Spiel programmiert habe, können manche Teile davon "wiederverwertet" werden.
 
